@@ -1,0 +1,153 @@
+﻿
+    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+    <head>
+      <meta charset='utf-8'>
+      <style>
+        table { border-collapse: collapse; width: 100%; font-family: 'Times New Roman', serif; }
+        td { font-size: 12pt; }
+      </style>
+    </head>
+    <body>
+      <table style="border: 1px solid #000;">
+        <tbody>
+          
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Писатель, драматург, врач
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Родился в Таганроге
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Первая драма - «Безотцовщина», в 18 лет
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          1879-й год - медицинский факультет
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Псевдоним - Антоша Чехонте
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          1885–1886 годы: короткие рассказы
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Путешествие на Сахалин
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Антон Чехов умер 15 июля 1904 года в Германии
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Творчество:
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          «Подводное течение»
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          «Пусть на сцене всё будет так же сложно и так же вместе с тем просто, как в жизни.»
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Самые известные пьесы:
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          «Дядя Ваня», 1899
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          «Три сестры», 1901
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Speaker 1
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          «Вишнёвый сад», 1904
+        </td>
+      </tr>
+    
+        </tbody>
+      </table>
+    </body>
+    </html>
+  

@@ -1,0 +1,99 @@
+﻿
+    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+    <head>
+      <meta charset='utf-8'>
+      <style>
+        table { border-collapse: collapse; width: 100%; font-family: 'Times New Roman', serif; }
+        td { font-size: 12pt; }
+      </style>
+    </head>
+    <body>
+      <table style="border: 1px solid #000;">
+        <tbody>
+          
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Настя
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Мне приснился очень странный сон, что-то очень необычное.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Полина
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Правда? Расскажи, если помнишь что-нибудь.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Настя
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Я гуляла где-то, с какой-то подругой, говорила о чём-то.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Полина
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Наверное с какой-нибудь подругой с работы.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Настя
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Точно не помню. Потом мы зашли в какой-то магазин, в какое-то странное место, там было много обезьян!
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Полина
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Обезьян? Это к богатству! У тебя скоро будет какая-то хорошая новая работа.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Настя
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Хорошо бы. Мы испугались и хотели куда-нибудь убежать, а потом я где-то потерялась и проснулась!
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Полина
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          У тебя странные сны, тебе надо отдохнуть, сходим куда-нибудь?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Настя
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Отличная идея, я знаю кое-какой хороший итальянский ресторан.
+        </td>
+      </tr>
+    
+        </tbody>
+      </table>
+    </body>
+    </html>
+  

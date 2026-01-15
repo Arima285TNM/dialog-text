@@ -1,0 +1,108 @@
+﻿
+    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+    <head>
+      <meta charset='utf-8'>
+      <style>
+        table { border-collapse: collapse; width: 100%; font-family: 'Times New Roman', serif; }
+        td { font-size: 12pt; }
+      </style>
+    </head>
+    <body>
+      <table style="border: 1px solid #000;">
+        <tbody>
+          
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Татьяна
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Здравствуйте, Эмма, представьтесь, пожалуйста.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Эмма
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Моя фамилия – Климова, в девичестве – Воропаева. Звать Эмма Васильевна. Я из потомственных терских казаков. То есть все мои предки – деды, прадеды и прапрадеды, были казаками.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Татьяна
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          А кто такие казаки, чем они занимались и где они жили?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Эмма
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Слово «казак» – тюркского происхождения, «странствующий удалец», «воин». Появилось это название на Руси ранее 15-го века. Приблизительно в 1492-м году. Князья, а позже цари, поручали казакам охрану границ, степи, от татар и других кочевых народов. И заселение отвоёванных земель.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Татьяна
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          И где же жили эти люди?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Эмма
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Казачьи общины, станицы, состояли в большинстве из русских и украинцев, а затем к ним присоединились другие народы Северного Кавказа, перешедшие в христианство. Эта этническая смешанная группа образовала армию наёмников, которая сражалась верхом и была вооружена луками, пиками, саблями и арканами, а позже оружием.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Татьяна
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          А конкретно на каких территориях жили казаки?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Эмма
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          На границах русского государства, по рекам Дону, Кубани, Тереку, Волге… Урал, и другим рекам. В это время казаки делились на две группы. Первая состояла на службе у определённого правителя – князя, а затем царя, и выполняла функции пограничных войск, получая за это деньги. Вторая представляла настоящую общину, которая вела независимый образ жизни. Все казаки вели особый образ жизни. Занимались набегами, охотой, рыболовством, сельским хозяйством. Казаки владели плодороднейшей землёй и не платили за неё налоги.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Татьяна
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          А как было организовано общество казаков, казачья община?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Эмма
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Землёй распоряжался станичный казачий круг… У казачества преобладала кавалерия, хотя при необходимости они могли сражаться и без лошадей. Пример этому отечественная война 41-го 45-х годов. Основным элементом казачьей армии была сотня.
+        </td>
+      </tr>
+    
+        </tbody>
+      </table>
+    </body>
+    </html>
+  

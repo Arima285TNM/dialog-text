@@ -1,0 +1,117 @@
+﻿
+    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+    <head>
+      <meta charset='utf-8'>
+      <style>
+        table { border-collapse: collapse; width: 100%; font-family: 'Times New Roman', serif; }
+        td { font-size: 12pt; }
+      </style>
+    </head>
+    <body>
+      <table style="border: 1px solid #000;">
+        <tbody>
+          
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Вика
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Здравствуйте, я хотела бы отправить посылку и открытку.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Работник
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          По России, за границу?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Вика
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Открытку по России, посылку – в США.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Работник
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Заполните бланк, укажите все предметы, которые Вы отправляете, их стоимость и вес.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Вика
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          И ещё пять конвертов по России и один в Европу.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Работник
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Пожалуйста. Заполнили бланк?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Вика
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Да, но я не знаю, сколько весит эта книга. Кстати, можно положить в неё паспорт?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Работник
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Вы с ума сошли, мы не берём такие важные документы!
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Вика
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Даже заказным письмом?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Работник
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Ни в коем случае. Передавайте с оказией.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Вика
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Понятно... Спасибо, сколько с меня?
+        </td>
+      </tr>
+    
+        </tbody>
+      </table>
+    </body>
+    </html>
+  

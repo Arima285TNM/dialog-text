@@ -1,0 +1,108 @@
+﻿
+    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+    <head>
+      <meta charset='utf-8'>
+      <style>
+        table { border-collapse: collapse; width: 100%; font-family: 'Times New Roman', serif; }
+        td { font-size: 12pt; }
+      </style>
+    </head>
+    <body>
+      <table style="border: 1px solid #000;">
+        <tbody>
+          
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Ювелир
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Добрый день, могу я Вам помочь?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Филипп
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Я хотел бы купить серьги для моей жены. Точнее... для моей будущей жены.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Ювелир
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Посмотрите на эти серьги, чистое золото, проба 750.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Филипп
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Очень красивые, а есть такие же, только с драгоценными камнями?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Ювелир
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Все наши украшения эксклюзивны, только в одном экземпляре. Вы хотите серьги с изумрудами, рубинами, сапфирами?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Филипп
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          А с бриллиантами есть?
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Ювелир
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Конечно. Посмотрите на эти изумительные серьги, они из платины, с маленькими бриллиантами в середине.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Филипп
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Это то, что нужно. Дорого, конечно, но раз это ручная работа...
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Ювелир
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          К ним есть также колье и браслет.
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="width: 30%; border: 1px solid #000; padding: 8px; vertical-align: top; font-weight: bold;">
+          Филипп
+        </td>
+        <td style="width: 70%; border: 1px solid #000; padding: 8px; vertical-align: top;">
+          Спасибо, но, думаю, серег пока будет достаточно.
+        </td>
+      </tr>
+    
+        </tbody>
+      </table>
+    </body>
+    </html>
+  
